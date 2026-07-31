@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AppleDevicesIdentifiers_WinUI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "AppleDevicesIdentifiers_WinUI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
