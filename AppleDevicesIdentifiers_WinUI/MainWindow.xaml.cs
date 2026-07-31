@@ -35,8 +35,8 @@ namespace AppleDevicesIdentifiers_WinUI
             uint dpi = GetDpiForWindow(hWnd);
             double scale = dpi / 96.0;
 
-            int scaledWidth = (int)(500 * scale);
-            int scaledHeight = (int)(500 * scale);
+            int scaledWidth = (int)(600 * scale);
+            int scaledHeight = (int)(600 * scale);
             AppWindow.Resize(new Windows.Graphics.SizeInt32(scaledWidth, scaledHeight));
 
             AppWindow.Changed += AppWindow_Changed;

@@ -64,5 +64,6 @@
     <GenerateTestArtifacts>False</GenerateTestArtifacts>
     <AppxBundle>Never</AppxBundle>
     <HoursBetweenUpdateChecks>0</HoursBetweenUpdateChecks>
+    <AppxPackageDir>C:\Users\vP_59620\source\repos\AppleDevicesIdentifiers_WinUI\AppleDevicesIdentifiers_WinUI\AppPackages\AppleDevicesIdentifiers_WinUI_1.0.0.0_x86_Test\</AppxPackageDir>
   </PropertyGroup>
 </Project>
