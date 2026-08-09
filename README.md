@@ -1,6 +1,7 @@
 # Apple Devices Identifiers
 
 A lightweight Windows desktop application built with WinUI 3 to quickly look up marketing names and internal model identifiers for various Apple devices.
+Semi-vibecoded with Gemini 3.6 Flash Extended
 
 ---
 
@@ -32,3 +33,6 @@ A lightweight Windows desktop application built with WinUI 3 to quickly look up 
 ## Acknowledgments
 
 * Device model identifiers source: [pluwen/apple-device-model-list](https://github.com/pluwen/apple-device-model-list)
+
+## Special Thanks
+[Linux.do](https://linux.do/)
