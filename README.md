@@ -1,7 +1,9 @@
 # Apple Devices Identifiers
 
 A lightweight Windows desktop application built with WinUI 3 to quickly look up marketing names and internal model identifiers for various Apple devices.
-Semi-vibecoded with Gemini 3.6 Flash Extended
+
+> [!NOTE]
+> Semi-Vibecoded with Gemini. Code reviewed by human.
 
 ---
 
@@ -25,8 +27,8 @@ Semi-vibecoded with Gemini 3.6 Flash Extended
 
 ### Prerequisites
 
-* Visual Studio versions with `*.slnx` support (with **.NET desktop development** and **Windows application development** workloads installed)
-* .NET SDK 8.0
+* Any `Visual Studio` versions with `*.slnx` support (with **.NET desktop development** and **Windows application development** workloads installed)
+* `.NET SDK 8.0`
 
 ---
 
